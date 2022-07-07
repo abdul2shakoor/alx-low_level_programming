@@ -1,14 +1,9 @@
 #include <stdio.h>
 
 /**
- *
- *  * main - Prints string
- *
- *   *
- *
- *    * Return: Always 0 (Success)
- *
- *     */
+ *  main - Prints string
+ *   Return: Always 0 (Success)
+ */
 
 int main(void)
 
